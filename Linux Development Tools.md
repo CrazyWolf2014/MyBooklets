@@ -293,6 +293,8 @@ $ gdb [exec]                    # 启动gdb并载入程序
 `info signals/handle`：查看有哪些信号在被GDB检测中 
 `info threads`：查看所有线程
 
+# GCC 编译器
+官网：https://gcc.gnu.org/
 
 
 
